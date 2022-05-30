@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body{background-color: #84E1AD;}
+
+header{ color: white;
+background-image: linear-gradient(to bottom, #64D882, #3F8D55,
+ #265C38) ;
+ text-align: center;
+ height: 200px;
+}
+
+header > p{ 
+ margin-top: 60px;
+}
+
+header > nav {text-align: left; margin-top: 45px; color: white;
+
+}
